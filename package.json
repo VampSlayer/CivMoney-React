@@ -18,7 +18,7 @@
     "react-scripts": "0.9.5",
     "react-search-input": "^0.11.3",
     "react-sidenav": "^2.1.2",
-    "recharts": "1.0.0-beta.10",
+    "recharts": "2.1.14",
     "uuid": "^3.2.1"
   },
   "devDependencies": {},
